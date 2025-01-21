@@ -1,3 +1,5 @@
+using eStore.AppSystem;
+
 namespace eStore.Accounts
 {
     public class User
@@ -12,7 +14,7 @@ namespace eStore.Accounts
 
         public enum Roles
         {
-            Admin,
+            Administrator,
             Customer
         }
 

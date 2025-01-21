@@ -1,0 +1,15 @@
+/workspaces/eStore/eStore/obj/Debug/net8.0/eStore.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/eStore/eStore/obj/Debug/net8.0/eStore.AssemblyInfoInputs.cache
+/workspaces/eStore/eStore/obj/Debug/net8.0/eStore.AssemblyInfo.cs
+/workspaces/eStore/eStore/obj/Debug/net8.0/eStore.csproj.CoreCompileInputs.cache
+/workspaces/eStore/eStore/obj/Debug/net8.0/eStore.sourcelink.json
+/workspaces/eStore/eStore/bin/Debug/net8.0/eStore
+/workspaces/eStore/eStore/bin/Debug/net8.0/eStore.deps.json
+/workspaces/eStore/eStore/bin/Debug/net8.0/eStore.runtimeconfig.json
+/workspaces/eStore/eStore/bin/Debug/net8.0/eStore.dll
+/workspaces/eStore/eStore/bin/Debug/net8.0/eStore.pdb
+/workspaces/eStore/eStore/obj/Debug/net8.0/eStore.dll
+/workspaces/eStore/eStore/obj/Debug/net8.0/refint/eStore.dll
+/workspaces/eStore/eStore/obj/Debug/net8.0/eStore.pdb
+/workspaces/eStore/eStore/obj/Debug/net8.0/eStore.genruntimeconfig.cache
+/workspaces/eStore/eStore/obj/Debug/net8.0/ref/eStore.dll

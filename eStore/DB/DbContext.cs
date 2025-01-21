@@ -1,3 +1,6 @@
+using eStore.Accounts;
+using eStore.AppSystem;
+
 namespace eStore.DB
 {
     public class DbContext
@@ -6,9 +9,8 @@ namespace eStore.DB
         public List<Product> Products { get; set; }
         public List<Order> Orders { get; set; }
 
-        public ShopDbContext()
+        public DbContext()
         {
-            // Initialize with some dummy data
             Users = new List<User>
             {
                 new User { Id = 1, Username = "user", Password = "user", Balance = 100.0m },
