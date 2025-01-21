@@ -9,12 +9,6 @@ namespace eStore.Terminal
 {
     public class Terminal
     {
-        public void Show()
-        {
-            Console.WriteLine("Welcome to eStore!");
-            Console.WriteLine("Type 'help' to see available commands.");
-        }
-
         public void Run()
         {
             var dbContext = new DbContext();
